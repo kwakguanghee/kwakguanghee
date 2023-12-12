@@ -1,4 +1,4 @@
-### Welcome to my 강히 profile 👋 <br>
+<h1>### Welcome to my 강히 profile 👋 </h1><br>
 
 <h2>🕵🏻‍♀️Introduction </h2> <p>
 이름 : 곽광희 <br>
