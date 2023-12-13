@@ -9,7 +9,7 @@
 <h2>🤷🏻‍♀️ My favorite..</h2><p>
 hobby : 음악듣기🎵  드라마시청📺 <br>
 music : 발라드 <br>
-animal : all~ animal❤️
+animal : all~ animal❤️ <br>
 movie : 액션,공포🎬
 
 <h2>🎈My SNS </h2> <p>
