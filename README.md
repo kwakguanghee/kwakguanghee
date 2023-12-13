@@ -10,6 +10,7 @@
 hobby : 음악듣기🎵  드라마시청📺 <br>
 music : 발라드 <br>
 animal : all~ animal❤️
+movie : 액션,공포🎬
 
 <h2>🎈My SNS </h2> <p>
 <a href="https://www.instagram.com/gwaggwanghyi4468/">
